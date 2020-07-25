@@ -1,0 +1,213 @@
+.profile a::before{
+    border-top: 4px solid #fa5b0f;
+    border-left: 4px solid #fa5b0f;
+    transition: all 0.3s ease;
+    -webkit-transition: all 0.3s ease;
+}
+.profile a::after{
+    border-right: 4px solid #fa5b0f;
+    border-bottom: 4px solid #fa5b0f;
+    transition: all 0.3s ease;
+    -webkit-transition: all 0.3s ease;
+}
+.nav-items ul li a:hover,
+.nav-items ul li .active{
+color:#fa5b0f !important;
+transition: all 0.3s ease;
+-webkit-transition: all 0.3s ease;
+}
+.logo .social-links a{
+    background-color:#fa5b0f ;
+    transition: all 0.3s ease;
+    -webkit-transition: all 0.3s ease;
+}
+
+
+.about_header h1::before{
+    border-top: 4px solid #fa5b0f;
+    height:0px;
+    width:80px;
+    transition: all 0.3s ease;
+    -webkit-transition: all 0.3s ease;
+}
+.about_header h1::after{
+    border-top: 4px solid #fa5b0f;
+    height:5px;
+    width:50px;
+    transition: all 0.3s ease;
+    -webkit-transition: all 0.3s ease;
+}
+.about_header span{
+    color: #fa5b0f ;
+    transition: all 0.3s ease;
+    -webkit-transition: all 0.3s ease;
+}
+.row span{
+    font-weight: bold;
+    transition: all 0.3s ease;
+    -webkit-transition: all 0.3s ease;
+}
+.row #download_cv{
+    border:1px solid #fa5b0f;
+    color:#fa5b0f;
+    background-color: white;
+    transition: all 0.3s ease;
+    -webkit-transition: all 0.3s ease;
+}
+.row #download_cv:hover{
+    background-color: #fa5b0f;
+    color:white;
+    text-decoration: none;
+    transition: all 0.3s ease;
+    -webkit-transition: all 0.3s ease;
+}
+.row #hire_me{
+    background-color:#fa5b0f ;
+    color:white;
+    border:none;
+    transition: all 0.3s ease;
+    -webkit-transition: all 0.3s ease;
+}
+.row #hire_me:hover{
+   background-color: white;
+   color:#fa5b0f;
+   border:1px solid #fa5b0f;
+   transition: all 0.3s ease;
+   -webkit-transition: all 0.3s ease;
+}
+.row .progress .progress-bar{
+    background-color:#fa5b0f!important; 
+    transition: all 0.3s ease;
+    -webkit-transition: all 0.3s ease;
+}
+.education .education_details_1::before{
+    background-color: #fa5b0f;
+    width:3px;
+    height:auto;
+    transition: all 0.3s ease;
+    -webkit-transition: all 0.3s ease;
+}
+.education .education_details_2::before{
+    background-color: #fa5b0f;
+    width:3px;
+    height:auto;
+    transition: all 0.3s ease;
+    -webkit-transition: all 0.3s ease;
+}
+.fas{
+    color:#fa5b0f ;
+    transition: all 0.3s ease;
+    -webkit-transition: all 0.3s ease;
+}
+.service_header h1::before{
+    border-top: 4px solid #fa5b0f;
+    height:0px;
+    width:80px;
+    transition: all 0.3s ease;
+    -webkit-transition: all 0.3s ease;
+}
+.service_header h1::after{
+    border-top: 4px solid #fa5b0f;
+    height:5px;
+    width:50px;
+    transition: all 0.3s ease;
+    -webkit-transition: all 0.3s ease;
+}
+.service_logo i{
+    color: #fa5b0f;
+    transition: all 0.3s ease;
+    -webkit-transition: all 0.3s ease;
+}
+.service_logo i:hover{
+    color:white;
+    background-color:#fa5b0f ;
+    transition: all 0.3s ease;
+    -webkit-transition: all 0.3s ease;
+}
+
+
+
+
+.portfolio_header h1::before{
+    border-top: 4px solid #fa5b0f;
+    height:0px;
+    width:80px;
+    transition: all 0.3s ease;
+    -webkit-transition: all 0.3s ease;
+}
+.portfolio_header h1::after{
+    border-top: 4px solid #fa5b0f;
+    height:5px;
+    width:50px;
+    transition: all 0.3s ease;
+    -webkit-transition: all 0.3s ease;
+}
+.portfolio_section .portfolio_filter .active{
+    color:#fa5b0f !important ;
+    transition: all 0.3s ease;
+    -webkit-transition: all 0.3s ease;
+}
+.portfolio_section .portfolio_filter button:hover{
+    color:#fa5b0f !important;
+    transition: all 0.3s ease;
+    -webkit-transition: all 0.3s ease;
+}
+.portfolio_item .inner_portfolio_items .portfolio_info .icon{
+    color:#fa5b0f ;
+    transition: all 0.3s ease;
+    -webkit-transition: all 0.3s ease;
+
+}
+
+
+.light-box .light-box_content .light-box_controls .previous,
+.light-box .light-box_content .light-box_controls .next{
+    color:#fa5b0f ;
+    transition: all 0.3s ease;
+    -webkit-transition: all 0.3s ease;
+}
+
+
+
+
+
+
+
+.blog_header h1::before{
+    border-top: 4px solid #fa5b0f;
+    height:0px;
+    width:80px;
+}
+.blog_header h1::after{
+    border-top: 4px solid #fa5b0f;
+    height:5px;
+    width:50px;
+}
+.blog_item .inner_blog-item .blog_image .blog_date{
+    background-color: #fa5b0f;
+}
+.blog_item .inner_blog-item .blog_info .blog_tags a{
+    color:#fa5b0f ;
+}
+
+
+
+.contact_header h1::before{
+    border-top: 4px solid #fa5b0f;
+    height:0px;
+    width:80px;
+}
+.contact_header h1::after{
+    border-top: 4px solid #fa5b0f;
+    height:5px;
+    width:50px;
+}
+.location_info .location_icon i,
+.contact_info .contact_icon i,
+.mail_info .mail_icon i{
+    color: #fa5b0f;
+}
+.submitbutton button{
+    color:white;
+    background-color:#fa5b0f ;
+}
